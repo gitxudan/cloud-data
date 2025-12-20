@@ -14,7 +14,7 @@ def hello_gcs(cloud_event):
     timeCreated = data["timeCreated"]
     updated = data["updated"]
 
-    print(f"Event ID: {event_id}")
+    print(f"Event ID DQ Version 2: {event_id}")
     print(f"Event type: {event_type}")
     print(f"Bucket: {bucket}")
     print(f"File: {name}")
