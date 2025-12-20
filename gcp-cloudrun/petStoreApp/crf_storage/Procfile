@@ -1,1 +1,1 @@
-web: functions-framework --target = hello_gcs --signature-type = cloudevent
+web: functions-framework --target = hello_gcs --signature-type = cloudevent --port = $port
