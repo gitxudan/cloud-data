@@ -1,0 +1,8 @@
+customerid	householdid	gender	name
+45131	481	Non-binary	Jessica Jenkins
+74728	715	Female	Miranda Turner
+57845	312	Female	Kelly Smith
+88800	732	Non-binary	Kenneth Smith
+91943	795	Non-binary	Brian Miller
+47721	384	Non-binary	Bryan Soto
+79319	641	Male	Terry Hall
